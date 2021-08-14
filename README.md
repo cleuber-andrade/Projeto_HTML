@@ -25,7 +25,7 @@ Realizar conexão entre interesses comuns das pessoas e os animais através de s
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/cleuber-andrade/Projeto_HTML.git
+git clone https://github.com/cleuber-andrade/projeto_UNES.git
 
 # Entrar numa IDE de sua preferência 
 
