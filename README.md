@@ -11,7 +11,7 @@ Meu primeiro projeto utilizando apenas HTML, esse projeito foi o meu primeiro co
 ```bash
 Praticar os conhecimentos adquiridos sobre HTML5
 
--Explorar a utilização de listas
+-Explorar a utilização de listas em HTML
 
 ```
 
