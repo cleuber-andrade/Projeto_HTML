@@ -1,33 +1,14 @@
 <h4 align="center"> 
-  ✔️
+  Site UNES✔️
 </h4>
 
 ## 💻 Sobre o projeto
 
 Meu primeiro projeto utilizando apenas HTML. Esse projeito foi o primeiro contato com programação;
 
-## :bulb: Ideia do Projeto
+## 🖼 Tela principal da Site UNES 
 
-```bash
-Realizar conexão entre interesses comuns das pessoas e os animais através de suas localizações.
-
--Pessoas que perderam seus animais e querem encontrá-los.
--Pessoas que encontraram animais perdidos e querem devolvê-los.
--Pessoas que têm animais para doar e adotar.
-
-```
-## 🖼 Screenshot das telas da aplicação 
-
-## 🖼 Tela principal da plataforma do KdMeuBichinho? 
-
- <img src="./images/TelaPrincipal.png" alt="Tela Principal"> 
-
-
-## 🖼 Tela de anúncio dos animais que estão perdidos ou procurando um novo lar
-
-<br>
-<img src="./images/telaanuncio.png" alt="Tela Principal"> 
-<br>
+ <img src="img/UNES.png" alt="Tela Principal">
 
  # 👷 Como rodar
 
@@ -59,7 +40,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <table align="center">
     <tr>
         <td align="center">
-            <a href="https://github.com/teteusAraujo">
+            <a href="https://github.com/cleuber-andrade">
                 <img src="https://avatars2.githubusercontent.com/u/60048274?s=460&u=a7f56af7dbe7d6338401d5b256fba528d8f0400b&v=4" width="150px;" alt="Image do Mateus Araújo" />
                 <br />
                 <sub><b>Mateus Araújo</b></sub>
