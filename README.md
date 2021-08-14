@@ -23,7 +23,7 @@ Praticar os conhecimentos adquiridos sobre HTML5
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/cleuber-andrade/projeto_UNES.git
+git clone https://github.com/cleuber-andrade/Projeto_UNES.git
 
 # Entrar numa IDE de sua preferência 
 
