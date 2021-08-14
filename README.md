@@ -6,7 +6,7 @@
 
 Meu primeiro projeto utilizando apenas HTML, esse projeito foi o meu primeiro contato com programação.
 
-## :bulb: Objetivo do Projeto
+## :dart: Objetivo do Projeto
 
 ```bash
 Praticar os conhecimentos adquiridos sobre HTML5
@@ -15,7 +15,7 @@ Praticar os conhecimentos adquiridos sobre HTML5
 
 ```
 
-## 🖼 Tela principal da Site UNES 
+## :pager: Tela principal da Site UNES 
 
  <img src="img/UNES.jpg" alt="Tela Principal">
 
