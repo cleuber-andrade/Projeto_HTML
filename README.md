@@ -8,7 +8,7 @@ Meu primeiro projeto utilizando apenas HTML. Esse projeito foi o primeiro contat
 
 ## 🖼 Tela principal da Site UNES 
 
- <img src="img/UNES.png" alt="Tela Principal">
+ <img src="img/UNES.jpg" alt="Tela Principal">
 
  # 👷 Como rodar
 
