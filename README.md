@@ -43,7 +43,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
             <a href="https://github.com/cleuber-andrade">
                 <img src="https://avatars2.githubusercontent.com/u/60048274?s=460&u=a7f56af7dbe7d6338401d5b256fba528d8f0400b&v=4" width="150px;" alt="Image do Mateus Araújo" />
                 <br />
-                <sub><b>Mateus Araújo</b></sub>
+                <sub><b>Cleuber Andrade</b></sub>
             </a>
         </td>    
     </tr>
