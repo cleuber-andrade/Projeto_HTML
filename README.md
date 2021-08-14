@@ -6,21 +6,11 @@
 
 Meu primeiro projeto utilizando apenas HTML. Esse projeito foi o primeiro contato com programação;
 
-## :bulb: Ideia do Projeto
-
-```bash
-Realizar conexão entre interesses comuns das pessoas e os animais através de suas localizações.
-
--Pessoas que perderam seus animais e querem encontrá-los.
--Pessoas que encontraram animais perdidos e querem devolvê-los.
--Pessoas que têm animais para doar e adotar.
-
-```
 ## 🖼 Screenshot das telas da aplicação 
 
 ## 🖼 Tela principal da plataforma do KdMeuBichinho? 
 
- <img src="./images/TelaPrincipal.png" alt="Tela Principal"> 
+ <img src="" alt="Tela Principal"> 
 
 
 ## 🖼 Tela de anúncio dos animais que estão perdidos ou procurando um novo lar
