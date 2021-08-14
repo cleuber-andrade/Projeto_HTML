@@ -6,6 +6,17 @@
 
 Meu primeiro projeto utilizando apenas HTML, esse projeito foi o meu primeiro contato com programação.
 
+## :bulb: Ideia do Projeto
+
+```bash
+Realizar conexão entre interesses comuns das pessoas e os animais através de suas localizações.
+
+-Pessoas que perderam seus animais e querem encontrá-los.
+-Pessoas que encontraram animais perdidos e querem devolvê-los.
+-Pessoas que têm animais para doar e adotar.
+
+```
+
 ## 🖼 Tela principal da Site UNES 
 
  <img src="img/UNES.jpg" alt="Tela Principal">
