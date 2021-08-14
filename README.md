@@ -6,14 +6,12 @@
 
 Meu primeiro projeto utilizando apenas HTML, esse projeito foi o meu primeiro contato com programação.
 
-## :bulb: Ideia do Projeto
+## :bulb: Objetivo do Projeto
 
 ```bash
-Realizar conexão entre interesses comuns das pessoas e os animais através de suas localizações.
+Praticar os conhecimentos adquiridos sobre HTML5
 
--Pessoas que perderam seus animais e querem encontrá-los.
--Pessoas que encontraram animais perdidos e querem devolvê-los.
--Pessoas que têm animais para doar e adotar.
+-Explorar a utilização de listas
 
 ```
 
