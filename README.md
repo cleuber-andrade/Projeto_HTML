@@ -1,10 +1,10 @@
-<h4 align="center"> 
+<h1 align="center"> 
   Site UNES✔️
-</h4>
+</h1>
 
 ## 💻 Sobre o projeto
 
-Meu primeiro projeto utilizando apenas HTML. Esse projeito foi o primeiro contato com programação;
+Meu primeiro projeto utilizando apenas HTML, esse projeito foi o meu primeiro contato com programação.
 
 ## 🖼 Tela principal da Site UNES 
 
