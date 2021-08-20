@@ -24,8 +24,12 @@ Praticar os conhecimentos adquiridos sobre HTML5
 ## :pager: Tela principal da Site UNES 
 
  <img src="img/UNES.jpg" alt="Tela Principal">
+ 
+## :globe_with_meridians: Link para acessar site no GitHubPages
 
- # 👷 Como rodar
+Para visualizar o site no GitHubPages <a href="https://cleuber-andrade.github.io/Projeto_UNES/" target="_blank">Clique aqui</a>
+
+## 👷 Como rodar
 
 ```bash
 # Clonar o repositório
